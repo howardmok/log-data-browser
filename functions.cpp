@@ -1,5 +1,5 @@
 #include <iostream>
-#include "commands.h"
+#include "functions.h"
 using namespace std;
 
 unordered_map<string, vector<int>> make_category(vector<logs>& master_log){

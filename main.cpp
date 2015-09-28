@@ -2,7 +2,7 @@
 #include <fstream>
 #include <getopt.h>
 #include <locale>
-#include "commands.h"
+#include "functions.h"
 #include <stdlib.h>
 #include <sstream>
 
